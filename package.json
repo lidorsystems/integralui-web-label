@@ -1,0 +1,33 @@
+{
+  "name": "integralui-web-label",
+  "version": "22.2.0",
+  "description": "IntegralUI Web - Label is a native Web Component that is fully customizable label with different alignments relative to attached element",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidorsystems/integralui-web-label.git"
+  },
+  "keywords": [
+    "component",
+    "integralui",
+    "label",
+    "ui",
+    "web",
+    "web-component",
+    "javascript",
+    "js",
+    "angular",
+    "react",
+    "reactjs",
+    "vue",
+    "vuejs"
+  ],
+  "author": "Lidor Systems",
+  "license": "SEE LICENSE in LICENSE.md",
+  "homepage": "https://www.lidorsystems.com/products/web/studio/",
+  "bugs": {
+    "url": "https://github.com/lidorsystems/integralui-web-label/issues"
+  }
+}
